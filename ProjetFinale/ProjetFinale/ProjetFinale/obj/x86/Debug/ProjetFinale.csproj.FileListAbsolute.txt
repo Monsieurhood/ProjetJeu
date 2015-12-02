@@ -1,0 +1,75 @@
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\Waves\boing.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\Waves\When_Im_46.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\TuilesMonde.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\TuilesMondeCollisions.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Marche\nutz_droite.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Marche\nutz_gauche.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Saut\nutz_droite.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Saut\nutz_gauche.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Stationnaire\nutz_droite.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Stationnaire\nutz_gauche.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\ProjetFinale.exe
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\ProjetFinale.pdb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\ProjetFinale.exe
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\ProjetFinale.pdb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\test1.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\ProjetFinale.csprojResolveAssemblyReference.cache
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\TuilesMonde.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\TuilesMondeCollisions.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\PalletteMonde1.xnb
+F:\Etape 3\Jeux(C#)\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\PalletteMonde1Collisions.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\Waves\boing.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\Waves\When_Im_46.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\TuilesMonde.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\TuilesMondeCollisions.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\test1.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\TuilesMonde.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\TuilesMondeCollisions.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\PalletteMonde1.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\PalletteMonde1Collisions.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\ProjetFinale.exe
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\ProjetFinale.pdb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\ProjetFinale.csprojResolveAssemblyReference.cache
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\ProjetFinale.exe
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\ProjetFinale.pdb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Saut\terry_Right.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Saut\terry_Left.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Grimpe\terry_Left.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Marche\terry_Right.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Marche\terry_Left.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Stationnaire\terry_Right.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Stationnaire\terry_Left.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Grimpe\terry_Right.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Tire\terry_Right.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Tire\terry_Left.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Course\terry_Left.xnb
+C:\Users\maverick\Downloads\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Course\terry_Right.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\Waves\boing.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\Waves\When_Im_46.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\TuilesMonde.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\TuilesMondeCollisions.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\test1.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\TuilesMonde.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\TuilesMondeCollisions.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\PalletteMonde1.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\PalletteMonde1Collisions.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Grimpe\terry_Left.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Grimpe\terry_Right.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Stationnaire\terry_Left.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Stationnaire\terry_Right.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Saut\terry_Left.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Saut\terry_Right.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Course\terry_Left.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Course\terry_Right.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Tire\terry_Left.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Tire\terry_Right.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Marche\terry_Left.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Marche\terry_Right.xnb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\ProjetFinale.exe
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\ProjetFinale.pdb
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\ProjetFinale.csprojResolveAssemblyReference.cache
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\ProjetFinale.exe
+F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\obj\x86\Debug\ProjetFinale.pdb

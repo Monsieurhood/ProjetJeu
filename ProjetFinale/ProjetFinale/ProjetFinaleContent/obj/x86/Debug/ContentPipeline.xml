@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\Waves\boing.wav</Source>
+      <Name>Audio\Waves\boing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\Waves\boing.xnb</Output>
+      <Time>2015-12-01T16:13:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\When_Im_46.wav</Source>
+      <Name>Audio\Waves\When_Im_46</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\Waves\When_Im_46.xnb</Output>
+      <Time>2015-12-01T16:13:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\TuilesMonde.bmp</Source>
+      <Name>Audio\TuilesMonde</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\TuilesMonde.xnb</Output>
+      <Time>2015-12-01T16:13:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\TuilesMondeCollisions.bmp</Source>
+      <Name>Audio\TuilesMondeCollisions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Audio\TuilesMondeCollisions.xnb</Output>
+      <Time>2015-12-01T16:13:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Monde\test1.png</Source>
+      <Name>Monde\test1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\test1.xnb</Output>
+      <Time>2015-12-01T16:13:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Monde\TuilesMonde.png</Source>
+      <Name>Monde\TuilesMonde</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\TuilesMonde.xnb</Output>
+      <Time>2015-12-01T16:13:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Monde\TuilesMondeCollisions.png</Source>
+      <Name>Monde\TuilesMondeCollisions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\TuilesMondeCollisions.xnb</Output>
+      <Time>2015-12-01T16:13:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Monde\PalletteMonde1.png</Source>
+      <Name>Monde\PalletteMonde1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\PalletteMonde1.xnb</Output>
+      <Time>2015-12-01T16:13:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Monde\PalletteMonde1Collisions.png</Source>
+      <Name>Monde\PalletteMonde1Collisions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Monde\PalletteMonde1Collisions.xnb</Output>
+      <Time>2015-12-01T16:13:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Grimpe\terry_Left.png</Source>
+      <Name>Joueur\Grimpe\terry_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Grimpe\terry_Left.xnb</Output>
+      <Time>2015-12-02T10:19:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Grimpe\terry_Right.png</Source>
+      <Name>Joueur\Grimpe\terry_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Grimpe\terry_Right.xnb</Output>
+      <Time>2015-12-02T10:19:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Stationnaire\terry_Left.png</Source>
+      <Name>Joueur\Stationnaire\terry_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Stationnaire\terry_Left.xnb</Output>
+      <Time>2015-12-02T10:20:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Stationnaire\terry_Right.png</Source>
+      <Name>Joueur\Stationnaire\terry_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Stationnaire\terry_Right.xnb</Output>
+      <Time>2015-12-02T10:20:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Saut\terry_Left.png</Source>
+      <Name>Joueur\Saut\terry_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Saut\terry_Left.xnb</Output>
+      <Time>2015-12-02T10:20:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Saut\terry_Right.png</Source>
+      <Name>Joueur\Saut\terry_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Saut\terry_Right.xnb</Output>
+      <Time>2015-12-02T10:20:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Course\terry_Left.png</Source>
+      <Name>Joueur\Course\terry_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Course\terry_Left.xnb</Output>
+      <Time>2015-12-02T10:20:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Course\terry_Right.png</Source>
+      <Name>Joueur\Course\terry_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Course\terry_Right.xnb</Output>
+      <Time>2015-12-02T10:20:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Tire\terry_Left.png</Source>
+      <Name>Joueur\Tire\terry_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Tire\terry_Left.xnb</Output>
+      <Time>2015-12-02T10:20:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Tire\terry_Right.png</Source>
+      <Name>Joueur\Tire\terry_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Tire\terry_Right.xnb</Output>
+      <Time>2015-12-02T10:20:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Marche\terry_Left.png</Source>
+      <Name>Joueur\Marche\terry_Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Marche\terry_Left.xnb</Output>
+      <Time>2015-12-02T10:20:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Joueur\Marche\terry_Right.png</Source>
+      <Name>Joueur\Marche\terry_Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\Joueur\Marche\terry_Right.xnb</Output>
+      <Time>2015-12-02T10:20:48-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinaleContent\</RootDirectory>
+      <LoggerRootDirectory>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinaleContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\Etape 3\ProjetFinale 2015-12-02 v1.01\ProjetFinale 2015-12-01 v1.00\ProjetFinale\ProjetFinale\ProjetFinale\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-10-21T20:52:15.7441663-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
